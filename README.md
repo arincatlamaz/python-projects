@@ -1,2 +1,6 @@
 # Practice-Python
-You can find here solutions that were implemented by me
+Hi there!
+
+I am planning to introduce my solutions to the questions I found on the page below.
+
+https://www.practicepython.org/
